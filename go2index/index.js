@@ -4,8 +4,8 @@ var  authConfig  =  {
   version : "1.1.2" ,  // program version
   theme: "acrou",
   // It is strongly recommended to use your own client_id and client_secret
-  client_id: "746239575955-oao9hkv614p8glrqpvuh5i8mqfoq145b.apps.googleusercontent.com", // Client id from Google Cloud Console
-    client_secret: "u5a1CSY5pNjdD2tGTU93TTnI",
+  client_id: "407002871088-pq6qik9kg707f81an8ou5vho97e19llg.apps.googleusercontent.com", // Client id from Google Cloud Console
+    client_secret: "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",
     refresh_token: "", // Authorize token
   /*
    * Set multiple drives to be displayed; add multiple by format
@@ -22,7 +22,7 @@ var  authConfig  =  {
    */
   roots: [
     {
-      id: "",
+      id: "0ABI0v1egBp9zUk9PVA",
       name: "TeamDrive",
       pass: "",
     },
